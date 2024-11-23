@@ -21,6 +21,8 @@ Kustomisasi Dashboard: Menyesuaikan tampilan dan struktur dashboard agar sesuai 
 
 🔗 Bergabunglah dengan Saya! Kunjungi repositori ini untuk melihat hasil proyek saya dan jangan ragu untuk memberikan masukan atau berdiskusi tentang cara terbaik dalam membuat dashboard interaktif dengan Looker Studio. Mari kita eksplorasi dunia data bersama!
 
+______________________________________________________________________________________________________________________________________________________________________________
+
 🚀 Building Interactive Dashboards with Looker Studio!
 
 In this project, I built an interactive dashboard for data analysis through the "BootCamp Data Analyst with SQL & Python using Google Platform" program at DQLab Academy. Although this program covers a lot of learning about SQL and Python, in this project, I focused on creating dashboards using Looker Studio (formerly Google Data Studio) as the main tool for data visualization and presentation. Using pre-existing datasets, I built a dashboard to analyze and visualize various relevant metrics in an easily understandable format.
