@@ -14,6 +14,7 @@ Integrasi Data: Menghubungkan dataset dari berbagai sumber ke dalam Looker Studi
 Dashboard Interaktif: Membuat dashboard yang memungkinkan pengguna untuk mengeksplorasi data dengan filter dinamis, grafik, dan visualisasi lainnya.
 Visualisasi yang Menarik: Menggunakan berbagai jenis grafik, seperti grafik batang, garis, dan pie, untuk mempermudah pemahaman data.
 Kustomisasi Dashboard: Menyesuaikan tampilan dan struktur dashboard agar sesuai dengan kebutuhan analisis bisnis.
+
 💡 Tujuan BootCamp: Membangun keterampilan dalam menganalisis dan memvisualisasikan data menggunakan Looker Studio tanpa perlu menulis kode SQL atau Python. Proyek ini mengajarkan saya bagaimana mengolah dan menampilkan data dalam format yang menarik dan berguna bagi pengambil keputusan.
 
 📈 Hasil yang Diharapkan: Melalui proyek ini, saya berharap dapat memberikan wawasan yang lebih jelas dan mudah dipahami dalam bentuk dashboard interaktif yang siap digunakan oleh pihak bisnis. Ini adalah langkah awal saya dalam menguasai visualisasi data dan dashboard interaktif untuk kebutuhan analisis.
@@ -36,6 +37,7 @@ Data Integration: Connecting datasets from various sources into Looker Studio fo
 Interactive Dashboards: Creating dashboards that allow users to explore data with dynamic filters, charts, and other visualizations.
 Engaging Visualizations: Using various chart types, such as bar charts, line charts, and pie charts, to make data easier to understand.
 Dashboard Customization: Adjusting the look and layout of the dashboard to suit business analysis needs.
+
 💡 BootCamp Goal: To build skills in analyzing and visualizing data using Looker Studio without the need to write SQL or Python code. This project taught me how to process and display data in a visually engaging and useful format for decision-makers.
 
 📈 Expected Outcome: Through this project, I hope to provide clearer and more easily digestible insights in the form of an interactive dashboard ready for business use. This is my first step in mastering data visualization and interactive dashboards for analysis needs.
